@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=Motor Driver.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Motor Driver.SchDoc|Designator=U_Motor Phase|SchDesignator=U_Motor Phase|FileName=Motor Phase.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Motor Phase.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Motor Driver.SchDoc|Designator=U_Motor Phase|SchDesignator=U_Motor Phase|FileName=Motor Phase.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Motor Phase.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Motor Driver.SchDoc|Designator=U_Motor Phase|SchDesignator=U_Motor Phase|FileName=Motor Phase.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Motor Phase.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Motor Driver.SchDoc|FileName=Step Down.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Motor Driver.SchDoc|FileName=STM32G4.SchDoc|SheetNumber=4
