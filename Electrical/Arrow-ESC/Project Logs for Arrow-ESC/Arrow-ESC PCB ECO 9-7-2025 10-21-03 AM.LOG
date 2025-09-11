@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=VBATT Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=VBATT Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2

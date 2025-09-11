@@ -1,0 +1,78 @@
+Removed Member From Class: ClassName=U_STM32G4 Member=R13
+Removed Member From Class: ClassName=U_Motor Driver Member=R15
+Removed Member From Class: ClassName=U_Motor Phase2 Member=R25
+Change Component Comment : Designator=R15 Old Comment=0603,130R,1% New Comment=0603,22R,1%
+Change Component Comment : Designator=R17 Old Comment=0603,130R,1% New Comment=0603,22R,1%
+Change Component Comment : Designator=R20 Old Comment=0603,130R,1% New Comment=0603,22R,1%
+Change Component Comment : Designator=R22 Old Comment=0603,130R,1% New Comment=0603,22R,1%
+Change Component Comment : Designator=R25 Old Comment=0603,130R,1% New Comment=0603,22R,1%
+Change Component Comment : Designator=R27 Old Comment=0603,130R,1% New Comment=0603,22R,1%
+Change component parameters: Designator = "R15" ("R3"); Footprint = "RESC1608X55N"; UniqueID = "\USGCLKCD\YJYWFVUZ\WGHIXJNE" ("\USGCLKCD\YJYWFVUZ\WGHIXJNE")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RC0603FR-0722RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0603fr-0722rl/yageo?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/1868787.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C107701"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-0722RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0603FR-0722RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-0722RL?qs=diQw95jMAeMOsxb8bne7fg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R5"); Footprint = "RESC1608X55N"; UniqueID = "\USGCLKCD\YJYWFVUZ\OKEDHGKS" ("\USGCLKCD\YJYWFVUZ\OKEDHGKS")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RC0603FR-0722RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0603fr-0722rl/yageo?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/1868787.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C107701"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-0722RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0603FR-0722RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-0722RL?qs=diQw95jMAeMOsxb8bne7fg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R3"); Footprint = "RESC1608X55N"; UniqueID = "\USGCLKCD\PNPTWIMW\WGHIXJNE" ("\USGCLKCD\PNPTWIMW\WGHIXJNE")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RC0603FR-0722RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0603fr-0722rl/yageo?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/1868787.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C107701"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-0722RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0603FR-0722RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-0722RL?qs=diQw95jMAeMOsxb8bne7fg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22" ("R5"); Footprint = "RESC1608X55N"; UniqueID = "\USGCLKCD\PNPTWIMW\OKEDHGKS" ("\USGCLKCD\PNPTWIMW\OKEDHGKS")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RC0603FR-0722RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0603fr-0722rl/yageo?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/1868787.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C107701"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-0722RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0603FR-0722RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-0722RL?qs=diQw95jMAeMOsxb8bne7fg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25" ("R3"); Footprint = "RESC1608X55N"; UniqueID = "\USGCLKCD\ZFHRJMMV\WGHIXJNE" ("\USGCLKCD\ZFHRJMMV\WGHIXJNE")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RC0603FR-0722RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0603fr-0722rl/yageo?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/1868787.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C107701"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-0722RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0603FR-0722RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-0722RL?qs=diQw95jMAeMOsxb8bne7fg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27" ("R5"); Footprint = "RESC1608X55N"; UniqueID = "\USGCLKCD\ZFHRJMMV\OKEDHGKS" ("\USGCLKCD\ZFHRJMMV\OKEDHGKS")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RC0603FR-0722RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0603fr-0722rl/yageo?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/1868787.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C107701"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-0722RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0603FR-0722RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603FR-0722RL?qs=diQw95jMAeMOsxb8bne7fg%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_STM32G4 Member=Component R12 (R19) 0603,0R,5%
+Added Member To Class: ClassName=U_Motor Driver Member=Component R14 (R2) 0603,1K,1%
+Added Member To Class: ClassName=U_Motor Phase1 Member=Component R16 (R4) 0603,4.7K,1%
+Added Member To Class: ClassName=U_Motor Phase1 Member=Component R18 (R6) 0603,1K,1%
+Added Member To Class: ClassName=U_Motor Phase2 Member=Component R20 (R3) 0603,22R,1%
+Added Member To Class: ClassName=U_Motor Phase2 Member=Component R22 (R5) 0603,22R,1%
+Added Member To Class: ClassName=U_Motor Phase2 Member=Component R24 (R7) 2512,1mR,1%
+Added Member To Class: ClassName=U_Motor Phase3 Member=Component R26 (R4) 0603,4.7K,1%
+Added Member To Class: ClassName=U_Motor Phase3 Member=Component R28 (R6) 0603,1K,1%

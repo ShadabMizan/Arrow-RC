@@ -1,0 +1,38 @@
+Removed Member From Class: ClassName=U_Motor Driver Member=C5
+Removed Member From Class: ClassName=U_Motor Driver Member=C6
+Removed Member From Class: ClassName=U_Motor Driver Member=C7
+Removed Member From Class: ClassName=U_Motor Driver Member=C8
+Removed Member From Class: ClassName=U_Motor Phase1 Member=C10
+Removed Member From Class: ClassName=U_Motor Phase1 Member=C11
+Removed Member From Class: ClassName=U_STM32G4 Member=IC2
+Removed Member From Class: ClassName=U_Motor Phase1 Member=R4
+Removed Member From Class: ClassName=U_Motor Driver Member=R6
+Removed Member From Class: ClassName=U_Motor Phase1 Member=R7
+Removed Member From Class: ClassName=U_Motor Phase1 Member=R8
+Removed Member From Class: ClassName=U_Motor Phase1 Member=R9
+Removed Member From Class: ClassName=U_Motor Phase1 Member=R10
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Add Pin To Net: Unknown Pin: Pin C13-N
+Add Pin To Net: Unknown Pin: Pin C13-P
+Add Pin To Net: Unknown Pin: Pin C14-N
+Add Pin To Net: Unknown Pin: Pin C14-P
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Added Member To Class: ClassName=U_STM32G4 Member=Component C9 (C16) 0603,X7R,1uF,50V,10%
+Added Member To Class: ClassName=U_Motor Driver Member=Component C12 (C1) 0805,X5R,10uF,25V,10%
+Added Member To Class: ClassName=U_Motor Driver Member=Component C13 (C2) 470uF,35V,20%
+Added Member To Class: ClassName=U_Motor Driver Member=Component C14 (C3) 470uF,35V,20%
+Added Member To Class: ClassName=U_Motor Driver Member=Component C15 (C4) 0603,X7R,15nF,50V,10%
+Added Member To Class: ClassName=U_Motor Phase1 Member=Component C17 (C6) 0603,X7R,100nF,50V,10%
+Added Member To Class: ClassName=U_Motor Phase1 Member=Component C18 (C7) 0603,X7R,15nF,50V,10%
+Added Member To Class: ClassName=U_STM32G4 Member=Component IC1 (IC3A) STM32G431CBT6
+Added Member To Class: ClassName=U_Motor Driver Member=Component IC3 (IC2) TMP236A2DBZR
+Added Member To Class: ClassName=Top Level Member=Component J1 (J2) S4B-PH-K-S_LF__SN_
+Added Member To Class: ClassName=U_STM32G4 Member=Component R2 (R9) 0603,4.7K,1%
+Added Member To Class: ClassName=U_STM32G4 Member=Component R11 (R18) 0603,0R,5%
+Added Member To Class: ClassName=U_Motor Driver Member=Component R13 (R2) 0603,1K,1%
+Added Member To Class: ClassName=U_Motor Phase1 Member=Component R14 (R3) 0603,130R,1%
+Added Member To Class: ClassName=U_Motor Phase1 Member=Component R15 (R4) 0603,4.7K,1%
+Added Member To Class: ClassName=U_Motor Phase1 Member=Component R16 (R5) 0603,130R,1%
+Added Member To Class: ClassName=U_Motor Phase1 Member=Component R17 (R6) 0603,1K,1%
+Added Member To Class: ClassName=U_Motor Phase1 Member=Component R18 (R7) 1210, 1mR, 1%

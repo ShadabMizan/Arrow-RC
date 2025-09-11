@@ -1,0 +1,121 @@
+TI ESC Design Notes
+
+GROUNDING OPTIMIZATION
+
+Capacitive Coupling
+Occurs when traces run parallel to each other. Rising edge in one trace can induce a rising edge in the other. 
+
+To combat this
+Route PWM traces away from each other and analog signals (V and I sense)
+
+Keep a Ground plane right underneath.
+
+Use star ground to combine high current carrying ground and DGND
+
+Minimize Ground Plane discontinuity
+
+Differential mode noise is the noise voltage when a signal travels to its load, then returns. Ex. Output switching
+
+Common mode noise is voltage that travels down both signal and return caused by a voltage drop across a shared impedence (load). Ex. Ground Bounce.
+
+Both Differential and Common mode noises are decreased significantly if return paths are kept wide and short. Use ground plane and vias. 
+
+
+
+GROUNDING OPTIMIZATION TL;DR
+Ground plane under noisy signal traces. ex. PWM traces. Ground Plane is also great for wide and short return paths to combat differential and common mode noise.
+
+Keep PWM traces away from Vsense and Isense traces.
+
+Star ground between PGND and DGND
+
+
+THERMAL OVERVIEW
+
+Most efficient way for heat to dissipate a package is #1 through the thermal pad, #2 through the encapsulation package. 
+
+For heat to flow away from the device, a copper plane must be continuous from the thermal pad to other areas on the board.
+Best practice is to use a wide exit path from the copper underneath the device's thermal pad into a wide, high surface area plane. Do not interrupt this plane.
+
+Keep a continuous plane, not a broken one due to a trace or something.
+
+Doubling copper thickness of a plane halves the thermal resistance. 
+
+Thermal vias are intended to allow heat to flow to both external layers, (top and bottom)
+
+Thermal vias must be direct connected and without solder mask
+
+Use a nonstaggered via array for underneath pads, and staggered for connecting planes
+
+
+THERMAL OVERVIEW TL;DR
+
+Continuous Planes wherever possible
+2 oz copper if possible
+
+thermal vias must be direct connect without solder mask. Min hole is 0.2 and min diameter is 0.50mm. JLCPCB requires 0.3mm for cheaper boards.
+
+planes connecting to thermal pads must have a wide connection and are continuous.
+
+Use nonstaggered thermal vias underneath thermal pads.
+
+
+
+VIAS & ROUTING
+
+Via stitching must be used for planes for low impedance connections between layers. These vias also help dissipate heat between layers
+
+Via Diameter must at least be the length of the trace. 
+
+For copper planes, multiple vias must be located close to where the current enters or exits the component pins.
+
+At 0.3mm hole size and 1 oz board carries 0.84A @ 10 degree temperature rise.
+
+Multi-via should be used for decoupling, current sense grounding, and high currents.
+
+Ensure via spacing so that it doesn't block return paths. Space them out so current can flow in between vias. i.e. don't have a wall of vias blocking a ground plane.
+
+Make gate drive traces wide and short as possible. Min 20 mils (0.5mm).
+
+Route gate and switch node trace as close as possible. This minimizes inductance, loop area, and noise due to dv/dt.
+
+No right angle traces. Bends should cover some distance as well.
+
+Use Teardrop to decrease thermal stress when going between signal and a through hole.
+
+Route current sense traces in parallel pairs.
+
+Place passive components within a signal path parallel to each other, not staggered.
+
+
+
+TL;DR VIAS & ROUTING
+
+Place multiple vias close to where the current enters and exits a component.
+
+0.3mm hole size carries 0.84A @ 10 degree rise
+
+Multiple vias (stitching) must be used for decoupling, current sense grounding, and high current nets.
+
+Via placements MUST NOT create a wall that blocks a return path. Space them out so return paths can pass between vias instead.
+
+Use Teardrop routing between vias and signal traces. 
+
+Place passive components that are in series of a signal path parallel to each other, not staggered.
+
+
+BULK & BYPASS CAPACITORS
+
+Bulk capacitor is used to minimize low frequency current transients and stores charge to supply large current spikes during switching. Bulk Capacitors should be placed near the power input. 
+
+Bypass capacitors should be placed near the pins from smallest to largest order.
+
+Do not use vias in between the device and capacitor's pads. Should be after.
+
+TL;DR BULK & BYPASS CAPACITORS
+Bulk Capacitor should be placed near power input.
+
+Do not place vias in between the bypass capacitor pads and the device pins.
+
+
+

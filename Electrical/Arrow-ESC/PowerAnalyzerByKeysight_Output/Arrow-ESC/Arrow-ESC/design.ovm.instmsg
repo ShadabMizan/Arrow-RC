@@ -1,0 +1,19 @@
+InstanceList size is 4
+Found 2 instances, missed 12 instances (probably disabled in simulation), 2 instances overlapped with other pins or instances
+
+1000000	C12	Not found,growthperc=0,findBufferLength=0,preferential=1, layerIds=[1], stackIds=[5], position= (0.017,0.02596,0.00141112)-(0.017,0.03104,0.00144612), inputPosition= (0.017,0.02596,0.00141112)-(0.017,0.03104,0.00144612)
+1000001	R19	Not found,growthperc=0,findBufferLength=0,preferential=1, layerIds=[1], stackIds=[5], position= (0.0321,0.026,0.00141112)-(0.0365,0.026,0.00144612), inputPosition= (0.0321,0.026,0.00141112)-(0.0365,0.026,0.00144612)
+1000002	Q2	Found,growthperc=0,findBufferLength=1085,preferential=1, layerIds=[1], stackIds=[5], position= (0.0395,0.0244,0.00141112)-(0.0453,0.0282,0.00144612), inputPosition= (0.0395,0.0244,0.00141112)-(0.0453,0.0282,0.00144612)
+1000002	Q2	Overlapped with 12,growthperc=0,findBufferLength=1085,preferential=1, layerIds=[1], stackIds=[5], position= (0.0395,0.0244,0.00141112)-(0.0453,0.0282,0.00144612), inputPosition= (0.0395,0.0244,0.00141112)-(0.0453,0.0282,0.00144612)
+1000003	Q1	Found,growthperc=0,findBufferLength=1316,preferential=1, layerIds=[1], stackIds=[5], position= (0.0395,0.0299,0.00141112)-(0.0453,0.0337,0.00144612), inputPosition= (0.0395,0.0299,0.00141112)-(0.0453,0.0337,0.00144612)
+1000003	Q1	Overlapped with 16,growthperc=0,findBufferLength=1316,preferential=1, layerIds=[1], stackIds=[5], position= (0.0395,0.0299,0.00141112)-(0.0453,0.0337,0.00144612), inputPosition= (0.0395,0.0299,0.00141112)-(0.0453,0.0337,0.00144612)
+1000000	C12	Not found,growthperc=0.01,findBufferLength=0,preferential=1, layerIds=[1], stackIds=[5], position= (0.017,0.02596,0.00141112)-(0.017,0.03104,0.00144612), inputPosition= (0.017,0.02596,0.00141112)-(0.017,0.03104,0.00144612)
+1000001	R19	Not found,growthperc=0.01,findBufferLength=0,preferential=1, layerIds=[1], stackIds=[5], position= (0.0321,0.026,0.00141112)-(0.0365,0.026,0.00144612), inputPosition= (0.0321,0.026,0.00141112)-(0.0365,0.026,0.00144612)
+1000000	C12	Not found,growthperc=0.05,findBufferLength=0,preferential=1, layerIds=[1], stackIds=[5], position= (0.017,0.02596,0.00141112)-(0.017,0.03104,0.00144612), inputPosition= (0.017,0.02596,0.00141112)-(0.017,0.03104,0.00144612)
+1000001	R19	Not found,growthperc=0.05,findBufferLength=0,preferential=1, layerIds=[1], stackIds=[5], position= (0.0321,0.026,0.00141112)-(0.0365,0.026,0.00144612), inputPosition= (0.0321,0.026,0.00141112)-(0.0365,0.026,0.00144612)
+1000000	C12	Not found,growthperc=0.1,findBufferLength=0,preferential=1, layerIds=[1], stackIds=[5], position= (0.017,0.02596,0.00141112)-(0.017,0.03104,0.00144612), inputPosition= (0.017,0.02596,0.00141112)-(0.017,0.03104,0.00144612)
+1000001	R19	Not found,growthperc=0.1,findBufferLength=0,preferential=1, layerIds=[1], stackIds=[5], position= (0.0321,0.026,0.00141112)-(0.0365,0.026,0.00144612), inputPosition= (0.0321,0.026,0.00141112)-(0.0365,0.026,0.00144612)
+1000000	C12	Not found,growthperc=0.2,findBufferLength=0,preferential=1, layerIds=[1], stackIds=[5], position= (0.017,0.02596,0.00141112)-(0.017,0.03104,0.00144612), inputPosition= (0.017,0.02596,0.00141112)-(0.017,0.03104,0.00144612)
+1000001	R19	Not found,growthperc=0.2,findBufferLength=0,preferential=1, layerIds=[1], stackIds=[5], position= (0.0321,0.026,0.00141112)-(0.0365,0.026,0.00144612), inputPosition= (0.0321,0.026,0.00141112)-(0.0365,0.026,0.00144612)
+1000000	C12	Not found,growthperc=0.5,findBufferLength=0,preferential=1, layerIds=[1], stackIds=[5], position= (0.017,0.02596,0.00141112)-(0.017,0.03104,0.00144612), inputPosition= (0.017,0.02596,0.00141112)-(0.017,0.03104,0.00144612)
+1000001	R19	Not found,growthperc=0.5,findBufferLength=0,preferential=1, layerIds=[1], stackIds=[5], position= (0.0321,0.026,0.00141112)-(0.0365,0.026,0.00144612), inputPosition= (0.0321,0.026,0.00141112)-(0.0365,0.026,0.00144612)

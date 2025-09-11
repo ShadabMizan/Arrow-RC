@@ -1,0 +1,10 @@
+Change component parameters: Designator = "C3" ("C9"); Footprint = "CAPC2012X145N"; UniqueID = "\CZLHSEFW\QBRFRYWE" ("\CZLHSEFW\QBRFRYWE")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CC0805KKX5R8BB106"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cc0805kkx5r8bb106/yageo?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X5R_4V-to-50V_27.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C89831"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0805KKX5R8BB106"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-CC805KKX5R8BB106"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/CC0805KKX5R8BB106?qs=57cj7OiSijm89pM64t1AGQ%3D%3D"; VariantName = "[No Variations]"

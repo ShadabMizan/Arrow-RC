@@ -1,0 +1,52 @@
+StiFile 1.2
+# File generated on Wed Sep 10 10:42:27 2025
+
+Electric 1:
+  name: "C12"
+  voltage: 16.7997
+  current: -0.300034
+  pluspin: 1  voltage: 16.7997  current: -0.300034  name: "C12-1"
+  minpin: 0  voltage: 0  current: 0.300034  name: "C12.min"
+
+Electric 2:
+  name: "Q1"
+  voltage: 16.7995
+  current: 0.150017
+  pluspin: 7  voltage: 16.7995  current: 0.0387443  name: "Q1-5"
+  pluspin: 6  voltage: 16.7995  current: 0.0357364  name: "Q1-6"
+  pluspin: 5  voltage: 16.7995  current: 0.0154657  name: "Q1-7"
+  pluspin: 3  voltage: 16.7995  current: 0.0245859  name: "Q1-8"
+  pluspin: 4  voltage: 16.7995  current: 0.0354844  name: "Q1-8"
+  minpin: 0  voltage: 0  current: -0.150017  name: "Q1.min"
+
+Electric 3:
+  name: "Q2"
+  voltage: 16.799
+  current: 0.150017
+  pluspin: 10  voltage: 16.799  current: 0.0177608  name: "Q2-5"
+  pluspin: 9  voltage: 16.799  current: 0.0238829  name: "Q2-6"
+  pluspin: 8  voltage: 16.799  current: 0.0223742  name: "Q2-7"
+  pluspin: 11  voltage: 16.799  current: 0.0588823  name: "Q2-8"
+  pluspin: 12  voltage: 16.799  current: 0.0271166  name: "Q2-8"
+  minpin: 0  voltage: 0  current: -0.150017  name: "Q2.min"
+
+Electric 4:
+  name: "Q1"
+  voltage: 0.000421162
+  current: 0.150017
+  pluspin: 7  voltage: 16.7995  current: 0.0387443  name: "Q1-5"
+  pluspin: 6  voltage: 16.7995  current: 0.0357364  name: "Q1-6"
+  pluspin: 5  voltage: 16.7995  current: 0.0154657  name: "Q1-7"
+  pluspin: 3  voltage: 16.7995  current: 0.0245859  name: "Q1-8"
+  pluspin: 4  voltage: 16.7995  current: 0.0354844  name: "Q1-8"
+  minpin: 14  voltage: 16.7991  current: -0.10291  name: "Q1-1"
+  minpin: 15  voltage: 16.7991  current: -0.0321764  name: "Q1-2"
+  minpin: 16  voltage: 16.7991  current: -0.0149304  name: "Q1-3"
+
+Electric 5:
+  name: "R19"
+  voltage: 0
+  current: 0
+  pluspin: 17  voltage: 0  current: 0  name: "R19-1"
+  minpin: 18  voltage: 0  current: -0  name: "R19-2"
+
