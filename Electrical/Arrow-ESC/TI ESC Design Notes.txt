@@ -16,7 +16,7 @@ Minimize Ground Plane discontinuity
 
 Differential mode noise is the noise voltage when a signal travels to its load, then returns. Ex. Output switching
 
-Common mode noise is voltage that travels down both signal and return caused by a voltage drop across a shared impedence (load). Ex. Ground Bounce.
+Common mode noise is voltage that travels down both signal and return caused by a voltage drop across a shared impedance (load). Ex. Ground Bounce.
 
 Both Differential and Common mode noises are decreased significantly if return paths are kept wide and short. Use ground plane and vias. 
 

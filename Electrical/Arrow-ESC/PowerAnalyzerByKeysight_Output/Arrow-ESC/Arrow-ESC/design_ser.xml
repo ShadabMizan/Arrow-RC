@@ -115,21 +115,6 @@
     </units>
     <pin>
       <position>
-        <x>0.0313000009</x>
-        <y>0.00750000024</y>
-        <z>0.0014461236</z>
-      </position>
-      <disc_radius>0.000320000376</disc_radius>
-      <stack_id>5</stack_id>
-      <layer_id>1</layer_id>
-      <name>R12-2</name>
-      <hash>13</hash>
-      <preferential>1</preferential>
-      <port>0</port>
-      <net_name>PGND</net_name>
-    </pin>
-    <pin>
-      <position>
         <x>0.01699999902</x>
         <y>0.03103999888</y>
         <z>0.0014461236</z>
@@ -138,9 +123,9 @@
       <stack_id>5</stack_id>
       <layer_id>1</layer_id>
       <name>C12-1</name>
-      <hash>1</hash>
+      <hash>19</hash>
       <preferential>1</preferential>
-      <port>1</port>
+      <port>4</port>
       <net_name>VBATT</net_name>
     </pin>
     <pin>
@@ -153,25 +138,10 @@
       <stack_id>5</stack_id>
       <layer_id>1</layer_id>
       <name>C12-2</name>
-      <hash>2</hash>
+      <hash>20</hash>
       <preferential>1</preferential>
-      <port>1</port>
+      <port>4</port>
       <net_name>PGND</net_name>
-    </pin>
-    <pin>
-      <position>
-        <x>0.03650000066</x>
-        <y>0.0259999988</y>
-        <z>0.0014461236</z>
-      </position>
-      <disc_radius>0.000880000272</disc_radius>
-      <stack_id>5</stack_id>
-      <layer_id>1</layer_id>
-      <name>R19-2</name>
-      <hash>18</hash>
-      <preferential>1</preferential>
-      <port>5</port>
-      <net_name>OPAMP3_VINP</net_name>
     </pin>
     <pin>
       <position>
@@ -183,10 +153,55 @@
       <stack_id>5</stack_id>
       <layer_id>1</layer_id>
       <name>R19-1</name>
-      <hash>17</hash>
+      <hash>18</hash>
       <preferential>1</preferential>
-      <port>5</port>
+      <port>6</port>
       <net_name>PGND</net_name>
+    </pin>
+    <pin>
+      <position>
+        <x>0.03949999974</x>
+        <y>0.02566999946</y>
+        <z>0.0014461236</z>
+      </position>
+      <disc_radius>0.000426666490666667</disc_radius>
+      <stack_id>5</stack_id>
+      <layer_id>1</layer_id>
+      <name>Q2-3</name>
+      <hash>14</hash>
+      <preferential>1</preferential>
+      <port>3</port>
+      <net_name>OPAMP3_VINP</net_name>
+    </pin>
+    <pin>
+      <position>
+        <x>0.03949999974</x>
+        <y>0.02692999694</y>
+        <z>0.0014461236</z>
+      </position>
+      <disc_radius>0.000426666490666667</disc_radius>
+      <stack_id>5</stack_id>
+      <layer_id>1</layer_id>
+      <name>Q2-2</name>
+      <hash>15</hash>
+      <preferential>1</preferential>
+      <port>3</port>
+      <net_name>OPAMP3_VINP</net_name>
+    </pin>
+    <pin>
+      <position>
+        <x>0.03949999974</x>
+        <y>0.02819999694</y>
+        <z>0.0014461236</z>
+      </position>
+      <disc_radius>0.000426666490666667</disc_radius>
+      <stack_id>5</stack_id>
+      <layer_id>1</layer_id>
+      <name>Q2-1</name>
+      <hash>16</hash>
+      <preferential>1</preferential>
+      <port>3</port>
+      <net_name>OPAMP3_VINP</net_name>
     </pin>
     <pin>
       <position>
@@ -198,7 +213,7 @@
       <stack_id>5</stack_id>
       <layer_id>1</layer_id>
       <name>Q2-7</name>
-      <hash>8</hash>
+      <hash>9</hash>
       <preferential>1</preferential>
       <port>3</port>
       <net_name>NetC15_1</net_name>
@@ -213,7 +228,7 @@
       <stack_id>5</stack_id>
       <layer_id>1</layer_id>
       <name>Q2-6</name>
-      <hash>9</hash>
+      <hash>10</hash>
       <preferential>1</preferential>
       <port>3</port>
       <net_name>NetC15_1</net_name>
@@ -228,7 +243,7 @@
       <stack_id>5</stack_id>
       <layer_id>1</layer_id>
       <name>Q2-5</name>
-      <hash>10</hash>
+      <hash>11</hash>
       <preferential>1</preferential>
       <port>3</port>
       <net_name>NetC15_1</net_name>
@@ -243,7 +258,7 @@
       <stack_id>5</stack_id>
       <layer_id>1</layer_id>
       <name>Q2-8</name>
-      <hash>11</hash>
+      <hash>12</hash>
       <preferential>1</preferential>
       <port>3</port>
       <net_name>NetC15_1</net_name>
@@ -258,7 +273,7 @@
       <stack_id>5</stack_id>
       <layer_id>1</layer_id>
       <name>Q2-8</name>
-      <hash>12</hash>
+      <hash>13</hash>
       <preferential>1</preferential>
       <port>3</port>
       <net_name>NetC15_1</net_name>
@@ -273,9 +288,9 @@
       <stack_id>5</stack_id>
       <layer_id>1</layer_id>
       <name>Q1-8</name>
-      <hash>3</hash>
+      <hash>1</hash>
       <preferential>1</preferential>
-      <port>4</port>
+      <port>5</port>
       <net_name>VBATT</net_name>
     </pin>
     <pin>
@@ -288,9 +303,9 @@
       <stack_id>5</stack_id>
       <layer_id>1</layer_id>
       <name>Q1-8</name>
-      <hash>4</hash>
+      <hash>2</hash>
       <preferential>1</preferential>
-      <port>4</port>
+      <port>5</port>
       <net_name>VBATT</net_name>
     </pin>
     <pin>
@@ -303,9 +318,9 @@
       <stack_id>5</stack_id>
       <layer_id>1</layer_id>
       <name>Q1-7</name>
-      <hash>5</hash>
+      <hash>3</hash>
       <preferential>1</preferential>
-      <port>4</port>
+      <port>5</port>
       <net_name>VBATT</net_name>
     </pin>
     <pin>
@@ -318,9 +333,9 @@
       <stack_id>5</stack_id>
       <layer_id>1</layer_id>
       <name>Q1-6</name>
-      <hash>6</hash>
+      <hash>4</hash>
       <preferential>1</preferential>
-      <port>4</port>
+      <port>5</port>
       <net_name>VBATT</net_name>
     </pin>
     <pin>
@@ -333,9 +348,9 @@
       <stack_id>5</stack_id>
       <layer_id>1</layer_id>
       <name>Q1-5</name>
-      <hash>7</hash>
+      <hash>5</hash>
       <preferential>1</preferential>
-      <port>4</port>
+      <port>5</port>
       <net_name>VBATT</net_name>
     </pin>
     <pin>
@@ -348,9 +363,9 @@
       <stack_id>5</stack_id>
       <layer_id>1</layer_id>
       <name>Q1-1</name>
-      <hash>14</hash>
+      <hash>6</hash>
       <preferential>1</preferential>
-      <port>4</port>
+      <port>5</port>
       <net_name>NetC15_1</net_name>
     </pin>
     <pin>
@@ -363,9 +378,9 @@
       <stack_id>5</stack_id>
       <layer_id>1</layer_id>
       <name>Q1-2</name>
-      <hash>15</hash>
+      <hash>7</hash>
       <preferential>1</preferential>
-      <port>4</port>
+      <port>5</port>
       <net_name>NetC15_1</net_name>
     </pin>
     <pin>
@@ -378,10 +393,40 @@
       <stack_id>5</stack_id>
       <layer_id>1</layer_id>
       <name>Q1-3</name>
-      <hash>16</hash>
+      <hash>8</hash>
       <preferential>1</preferential>
-      <port>4</port>
+      <port>5</port>
       <net_name>NetC15_1</net_name>
+    </pin>
+    <pin>
+      <position>
+        <x>0.01905000254</x>
+        <y>0.01373800402</y>
+        <z>0.0014461236</z>
+      </position>
+      <disc_radius>0.000161447625142857</disc_radius>
+      <stack_id>5</stack_id>
+      <layer_id>1</layer_id>
+      <name>IC1-27</name>
+      <hash>17</hash>
+      <preferential>1</preferential>
+      <port>0</port>
+      <net_name>OPAMP3_VINP</net_name>
+    </pin>
+    <pin>
+      <position>
+        <x>0.01720000116</x>
+        <y>0.01879999796</y>
+        <z>-0.0000350012</z>
+      </position>
+      <disc_radius>0.000320000376</disc_radius>
+      <stack_id>0</stack_id>
+      <layer_id>32</layer_id>
+      <name>C11-2</name>
+      <hash>21</hash>
+      <preferential>1</preferential>
+      <port>0</port>
+      <net_name>VBATT</net_name>
     </pin>
     <instance>
       <bounding_box>
@@ -2449,7 +2494,7 @@
       <net_names>VBATT</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -2582,7 +2627,7 @@
       <net_names>PGND</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -4039,7 +4084,7 @@
       <net_names>NetC15_1</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -4469,11 +4514,11 @@
       <layer_name>Top Layer</layer_name>
       <stack_id>5</stack_id>
       <cover>0</cover>
-      <net_id>2</net_id>
+      <net_id>1</net_id>
       <net_names>OPAMP3_VINP</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -6512,7 +6557,7 @@
       <net_names>VBATT</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -6565,7 +6610,7 @@
       <net_names>PGND</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -7042,7 +7087,7 @@
       <net_names>NetC15_1</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -7080,11 +7125,11 @@
       <layer_name>Int1</layer_name>
       <stack_id>4</stack_id>
       <cover>0</cover>
-      <net_id>2</net_id>
+      <net_id>1</net_id>
       <net_names>OPAMP3_VINP</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -8547,7 +8592,7 @@
       <net_names>VBATT</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -8600,7 +8645,7 @@
       <net_names>PGND</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -9037,7 +9082,7 @@
       <net_names>NetC15_1</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -9075,11 +9120,11 @@
       <layer_name>Int2</layer_name>
       <stack_id>3</stack_id>
       <cover>0</cover>
-      <net_id>2</net_id>
+      <net_id>1</net_id>
       <net_names>OPAMP3_VINP</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -11450,7 +11495,7 @@
       <net_names>VBATT</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -11503,7 +11548,7 @@
       <net_names>PGND</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -11980,7 +12025,7 @@
       <net_names>NetC15_1</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -12018,11 +12063,11 @@
       <layer_name>Int3</layer_name>
       <stack_id>2</stack_id>
       <cover>0</cover>
-      <net_id>2</net_id>
+      <net_id>1</net_id>
       <net_names>OPAMP3_VINP</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -14085,7 +14130,7 @@
       <net_names>VBATT</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -14138,7 +14183,7 @@
       <net_names>PGND</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -15483,7 +15528,7 @@
       <net_names>NetC15_1</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -16297,11 +16342,11 @@
       <layer_name>Int4</layer_name>
       <stack_id>1</stack_id>
       <cover>0</cover>
-      <net_id>2</net_id>
+      <net_id>1</net_id>
       <net_names>OPAMP3_VINP</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -19080,7 +19125,7 @@
       <net_names>VBATT</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -19133,7 +19178,7 @@
       <net_names>PGND</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -20418,7 +20463,7 @@
       <net_names>NetC15_1</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -20456,11 +20501,11 @@
       <layer_name>Bottom Layer</layer_name>
       <stack_id>0</stack_id>
       <cover>0</cover>
-      <net_id>2</net_id>
+      <net_id>1</net_id>
       <net_names>OPAMP3_VINP</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -21809,7 +21854,53 @@
       <net_names>VBATT</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
+      <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
+      <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
+      <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
+      <is_backdrill>0</is_backdrill>
+      <is_backdrill_from_top>0</is_backdrill_from_top>
+    </via_layer>
+    <via_layer>
+      <geometry>
+        <shapes>
+          <shape>
+            <circle>
+              <center>
+                <x>14015748</x>
+                <y>9763780</y>
+              </center>
+              <radius>59055</radius>
+            </circle>
+          </shape>
+          <shape>
+            <circle>
+              <center>
+                <x>7519685</x>
+                <y>4724409</y>
+              </center>
+              <radius>59055</radius>
+            </circle>
+          </shape>
+        </shapes>
+      </geometry>
+      <xy_scale>0.00000000254</xy_scale>
+      <z0>0</z0>
+      <z1>0.0014111224</z1>
+      <material_id>1</material_id>
+      <dielectric_plating_material_id>0</dielectric_plating_material_id>
+      <plating_enabled>1</plating_enabled>
+      <plating_thickness>0.00001524</plating_thickness>
+      <conductorSurfacesRoughness_id>-1</conductorSurfacesRoughness_id>
+      <layer_id>100</layer_id>
+      <layer_name>Top Layer-Bottom Layer</layer_name>
+      <bottom_stack_id>0</bottom_stack_id>
+      <top_stack_id>5</top_stack_id>
+      <net_id>1</net_id>
+      <net_names>OPAMP3_VINP</net_names>
+      <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
+      <thermal_conductivity_z>429.515</thermal_conductivity_z>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -22170,7 +22261,7 @@
       <net_names>NetC15_1</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -22216,7 +22307,7 @@
       <net_names>VBATT</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
@@ -22251,7 +22342,7 @@
       <net_names>NetC15_1</net_names>
       <thermal_conductivity_xy>429.515</thermal_conductivity_xy>
       <thermal_conductivity_z>429.515</thermal_conductivity_z>
-      <conductivity>47000000</conductivity>
+      <conductivity>58800000</conductivity>
       <thermal_model_nominal_temperature>298.15</thermal_model_nominal_temperature>
       <thermal_model_linear_coefficient>0.00386</thermal_model_linear_coefficient>
       <thermal_model_quadratic_coefficient>0</thermal_model_quadratic_coefficient>
